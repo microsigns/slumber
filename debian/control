@@ -1,0 +1,13 @@
+Source: python-slumber
+Section: python
+Priority: optional
+Maintainer: Donald Stufft <donald.stufft@gmail.com>
+Homepage: https://github.com/dstufft/slumber
+Build-Depends: debhelper, python-support, python-setuptools
+
+Package: python-slumber
+Architecture: all
+Depends: ${python:Depends}, python-support, python-requests, python-simplejson
+Provides: ${python:Provides}
+Description: A library that makes consuming a REST API easier and more
+ convenient

@@ -1,0 +1,17 @@
+python-slumber (0.4-2) testing; urgency=low
+
+  * Update to 0.4.2
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Thu,  4 Oct 2012 14:29:00 +0200
+
+python-slumber (0.4-0) testing; urgency=low
+
+  * Update to 0.4
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Mon, 23 Jan 2012 20:30:00 -0300
+
+python-slumber (0.3.1-0) testing; urgency=low
+
+  * Initial Debian package
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Tue,  6 Dec 2011 16:28:00 -0300
