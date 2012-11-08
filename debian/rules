@@ -19,6 +19,8 @@ install:
 	dh_installdirs
 
 	python setup.py install --root $(CURDIR)/debian/python-slumber
+	# remove tests suite
+	rm -rf debian/python-slumber/usr/share/pyshared/tests
 
 binary-indep: install
 
